@@ -1,6 +1,6 @@
 # 📄 DocumentReader - Simple GenAI App (Single-File Version)
 
-A minimal Generative AI-powered document reader built with **Streamlit**, **LangChain**, and **Ollama** using only a single Python script (`app.py`). Upload a document, ask any question about its content, and get instant, context-aware responses powered by LLaMA 3.
+A minimal Generative AI-powered document reader built with **Streamlit**, **LangChain**, and **Ollama** using only a single Python script (`app.py`). Upload a link, ask any question about its content, and get context-aware responses powered by LLaMA 3 2.1B.
 
 ---
 
