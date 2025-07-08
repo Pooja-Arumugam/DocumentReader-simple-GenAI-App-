@@ -35,22 +35,22 @@ cd DocumentReader-simple-GenAI-App-
 ```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 ### 3. Install Requirements
 ```
 pip install -r requirements.txt
-
+```
 ### 4. Setup Environment Variables
 ```
 Create a .env file in the project root:
 LANGCHAIN_API_KEY=your_langchain_api_key
 LANGCHAIN_PROJECT=DocumentReader
-
+```
 ### 5. Download Ollama Model
 ```
 Make sure you have Ollama installed and running:(local)
 ollama run llama3
-
+```
 ---
 
 ## How It Works
