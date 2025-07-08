@@ -28,6 +28,7 @@ A minimal Generative AI-powered document reader built with **Streamlit**, **Lang
 ```
 git clone https://github.com/Pooja-Arumugam/DocumentReader-simple-GenAI-App-.git
 cd DocumentReader-simple-GenAI-App-
+```
 
 ### 2. Create Virtual Environment
 
