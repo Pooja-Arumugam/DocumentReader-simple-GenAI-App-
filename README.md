@@ -22,7 +22,7 @@ A minimal Generative AI-powered document reader built with **Streamlit**, **Lang
 ---
 
 ## Installation
-
+---
 ### 1. Clone the Repository
 
 ```
@@ -50,7 +50,7 @@ LANGCHAIN_PROJECT=DocumentReader
 Make sure you have Ollama installed and running:(local)
 ollama run llama3
 
-
+---
 
 ## How It Works
 
